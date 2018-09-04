@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogDemo.Api", "BlogDemo.Api\BlogDemo.Api.csproj", "{C2969AD5-7E19-4EF0-ABD9-B46663485C20}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogDemo.Core", "BlogDemo.Core\BlogDemo.Core.csproj", "{918BCD09-8A7C-4F81-9363-00D83ADBBE22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogDemo.Infrastructure", "BlogDemo.Infrastructure\BlogDemo.Infrastructure.csproj", "{2E0738A7-5B85-448D-B84D-A0773D040429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2969AD5-7E19-4EF0-ABD9-B46663485C20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2969AD5-7E19-4EF0-ABD9-B46663485C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2969AD5-7E19-4EF0-ABD9-B46663485C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2969AD5-7E19-4EF0-ABD9-B46663485C20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{918BCD09-8A7C-4F81-9363-00D83ADBBE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918BCD09-8A7C-4F81-9363-00D83ADBBE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918BCD09-8A7C-4F81-9363-00D83ADBBE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918BCD09-8A7C-4F81-9363-00D83ADBBE22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0738A7-5B85-448D-B84D-A0773D040429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0738A7-5B85-448D-B84D-A0773D040429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0738A7-5B85-448D-B84D-A0773D040429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0738A7-5B85-448D-B84D-A0773D040429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+		SolutionGuid = {8D7957B0-A282-4D13-836B-595AA89C4A06}
+	EndGlobalSection
+EndGlobal
