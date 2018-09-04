@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Core\\BlogDemo.Api\\BlogDemo.Core\\BlogDemo.Core.csproj",
+      "projectUniqueName": "D:\\Project\\Core\\BlogDemo.Api.SVN\\trunk\\BlogDemo.Core\\BlogDemo.Core.csproj",
       "projectName": "BlogDemo.Core",
-      "projectPath": "D:\\Project\\Core\\BlogDemo.Api\\BlogDemo.Core\\BlogDemo.Core.csproj",
+      "projectPath": "D:\\Project\\Core\\BlogDemo.Api.SVN\\trunk\\BlogDemo.Core\\BlogDemo.Core.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Core\\BlogDemo.Api\\BlogDemo.Core\\obj\\",
+      "outputPath": "D:\\Project\\Core\\BlogDemo.Api.SVN\\trunk\\BlogDemo.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

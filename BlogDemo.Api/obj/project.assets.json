@@ -12262,11 +12262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Core\\BlogDemo.Api\\BlogDemo.Api\\BlogDemo.Api.csproj",
+      "projectUniqueName": "D:\\Project\\Core\\BlogDemo.Api.SVN\\trunk\\BlogDemo.Api\\BlogDemo.Api.csproj",
       "projectName": "BlogDemo.Api",
-      "projectPath": "D:\\Project\\Core\\BlogDemo.Api\\BlogDemo.Api\\BlogDemo.Api.csproj",
+      "projectPath": "D:\\Project\\Core\\BlogDemo.Api.SVN\\trunk\\BlogDemo.Api\\BlogDemo.Api.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Core\\BlogDemo.Api\\BlogDemo.Api\\obj\\",
+      "outputPath": "D:\\Project\\Core\\BlogDemo.Api.SVN\\trunk\\BlogDemo.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12285,11 +12285,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Project\\Core\\BlogDemo.Api\\BlogDemo.Core\\BlogDemo.Core.csproj": {
-              "projectPath": "D:\\Project\\Core\\BlogDemo.Api\\BlogDemo.Core\\BlogDemo.Core.csproj"
+            "D:\\Project\\Core\\BlogDemo.Api.SVN\\trunk\\BlogDemo.Core\\BlogDemo.Core.csproj": {
+              "projectPath": "D:\\Project\\Core\\BlogDemo.Api.SVN\\trunk\\BlogDemo.Core\\BlogDemo.Core.csproj"
             },
-            "D:\\Project\\Core\\BlogDemo.Api\\BlogDemo.Infrastructure\\BlogDemo.Infrastructure.csproj": {
-              "projectPath": "D:\\Project\\Core\\BlogDemo.Api\\BlogDemo.Infrastructure\\BlogDemo.Infrastructure.csproj"
+            "D:\\Project\\Core\\BlogDemo.Api.SVN\\trunk\\BlogDemo.Infrastructure\\BlogDemo.Infrastructure.csproj": {
+              "projectPath": "D:\\Project\\Core\\BlogDemo.Api.SVN\\trunk\\BlogDemo.Infrastructure\\BlogDemo.Infrastructure.csproj"
             }
           }
         }
